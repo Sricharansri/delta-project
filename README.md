@@ -1,2 +1,2 @@
 # delta-project
-this a project
+this a project of mine
